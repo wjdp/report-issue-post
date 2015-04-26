@@ -44,7 +44,7 @@ def post_issue():
 
   return jsonify({
     'status': 'success',
-    'url': issue.url,
+    'url': issue.html_url,
   })
 
 def error(title):
