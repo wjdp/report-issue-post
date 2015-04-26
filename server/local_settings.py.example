@@ -1,6 +1,6 @@
-GITHUB_USER = "ntbot"
-GITHUB_TOKEN = "67ae142d8b87dc2f01074b8173cff5515e7f3a2e"
+GITHUB_USER = ""
+GITHUB_TOKEN = ""
 GITHUB_REPO = "wjdp/report-issue-post"
 GITHUB_LABEL = "webform"
 
-WEBSITE_URL = "http://alpha.history.newtheatre.org.uk"
+WEBSITE_URL = ""
